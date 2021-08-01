@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="14d66b63-b52e-4b85-9ad3-ae9457008eba" name="vcis1DogCat">
-        <fileTransfer rootFolder="/home/vcis1/Userlist/Wangqiwang/DogCat" accessType="SFTP" host="10.128.198.229" port="22" sshConfigId="a3dc3fae-cca8-4ec7-a45b-341e69f7ff2b" sshConfig="vcis1@10.128.198.229:22 password">
+        <fileTransfer rootFolder="/home/vcis1/Userlist/Wangqiwang/DogCat" accessType="SFTP" host="10.112.50.190" port="22" sshConfigId="a3dc3fae-cca8-4ec7-a45b-341e69f7ff2b" sshConfig="vcis1@10.112.50.190:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
